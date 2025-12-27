@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-25T16:34:16 IST" name="Suite" finished-at="2025-12-25T16:34:56 IST" duration-ms="40646">
+  <suite started-at="2025-12-27T20:43:02 IST" name="Suite" finished-at="2025-12-27T20:43:18 IST" duration-ms="15587">
     <groups>
       <group name="Master">
         <method signature="TC_001ActRegTest.VerifyActReg()[pri:0, instance:testCases.TC_001ActRegTest@2a65fe7c]" name="VerifyActReg" class="testCases.TC_001ActRegTest"/>
@@ -15,9 +15,9 @@
         <method signature="TC_002LoginTest.loginTest()[pri:0, instance:testCases.TC_002LoginTest@7c7b252e]" name="loginTest" class="testCases.TC_002LoginTest"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-12-25T16:34:16 IST" name="Test" finished-at="2025-12-25T16:34:56 IST" duration-ms="40646">
+    <test started-at="2025-12-27T20:43:02 IST" name="Test" finished-at="2025-12-27T20:43:18 IST" duration-ms="15587">
       <class name="testCases.TC_001ActRegTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001ActRegTest@2a65fe7c]" started-at="2025-12-25T16:34:16 IST" name="setUp" finished-at="2025-12-25T16:34:32 IST" duration-ms="15498" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001ActRegTest@2a65fe7c]" started-at="2025-12-27T20:43:02 IST" name="setUp" finished-at="2025-12-27T20:43:09 IST" duration-ms="6368" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,17 +33,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerifyActReg()[pri:0, instance:testCases.TC_001ActRegTest@2a65fe7c]" started-at="2025-12-25T16:34:32 IST" name="VerifyActReg" finished-at="2025-12-25T16:34:39 IST" duration-ms="7523" status="PASS">
+        <test-method signature="VerifyActReg()[pri:0, instance:testCases.TC_001ActRegTest@2a65fe7c]" started-at="2025-12-27T20:43:09 IST" name="VerifyActReg" finished-at="2025-12-27T20:43:12 IST" duration-ms="3597" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyActReg -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001ActRegTest@2a65fe7c]" started-at="2025-12-25T16:34:39 IST" name="tearDown" finished-at="2025-12-25T16:34:40 IST" duration-ms="306" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001ActRegTest@2a65fe7c]" started-at="2025-12-27T20:43:12 IST" name="tearDown" finished-at="2025-12-27T20:43:13 IST" duration-ms="292" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_001ActRegTest -->
       <class name="testCases.TC_002LoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTest@7c7b252e]" started-at="2025-12-25T16:34:40 IST" name="setUp" finished-at="2025-12-25T16:34:51 IST" duration-ms="11007" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTest@7c7b252e]" started-at="2025-12-27T20:43:13 IST" name="setUp" finished-at="2025-12-27T20:43:15 IST" duration-ms="2633" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:0, instance:testCases.TC_002LoginTest@7c7b252e]" started-at="2025-12-25T16:34:51 IST" name="loginTest" finished-at="2025-12-25T16:34:56 IST" duration-ms="5513" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:testCases.TC_002LoginTest@7c7b252e]" started-at="2025-12-27T20:43:15 IST" name="loginTest" finished-at="2025-12-27T20:43:17 IST" duration-ms="1967" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002LoginTest@7c7b252e]" started-at="2025-12-25T16:34:56 IST" name="tearDown" finished-at="2025-12-25T16:34:56 IST" duration-ms="304" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002LoginTest@7c7b252e]" started-at="2025-12-27T20:43:17 IST" name="tearDown" finished-at="2025-12-27T20:43:18 IST" duration-ms="229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

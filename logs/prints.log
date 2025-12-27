@@ -56,3 +56,8 @@
 17:37:06.933 [main] INFO  testCases.TC_002LoginTest - clickin on login option
 17:37:07.309 [main] INFO  testCases.TC_002LoginTest - Login successful
 17:37:08.859 [main] INFO  testCases.TC_002LoginTest - Log out successful
+20:43:09.574 [main] INFO  testCases.TC_001ActRegTest - clicking on my account
+20:43:12.913 [main] INFO  testCases.TC_001ActRegTest - Login succesful
+20:43:16.356 [main] INFO  testCases.TC_002LoginTest - clickin on login option
+20:43:17.438 [main] INFO  testCases.TC_002LoginTest - Login successful
+20:43:17.882 [main] INFO  testCases.TC_002LoginTest - Log out successful
